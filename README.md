@@ -1,10 +1,7 @@
-# Getting Started with Create React App
+#### Preview 😂
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/SpandanM110/Will-you-be-my-valentine/assets/95229740/059e9d7c-d226-4a05-a7bb-921d1e92d31b)
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
